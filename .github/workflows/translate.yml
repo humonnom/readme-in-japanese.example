@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'README.md'
+      
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   translate:
