@@ -5,11 +5,11 @@
 
 
 ## はじめに
-LINE Messaging API SDK for nodejsを使用すると、LINE Messaging APIを使用したボットの開発が簡単になり、数分でサンプルボットを作成できます。
+LINE Messaging API SDK for nodejsを使用すると、LINE Messaging APIを利用したボットの開発が容易になり、数分でサンプルボットを作成できます。
 
 ## ドキュメンテーション
 
-詳細な情報は公式APIドキュメンテーションを参照してください
+詳細は公式APIドキュメンテーションをご覧ください。
 
 - 英語: https://developers.line.biz/en/docs/messaging-api/overview/
 - 日本語: https://developers.line.biz/ja/docs/messaging-api/overview/
@@ -22,7 +22,7 @@ line-bot-sdk-nodejsのドキュメンテーション: https://line.github.io/lin
 
 ## インストール
 
-[npm](https://www.npmjs.com/)を使用して:
+[npm](https://www.npmjs.com/)を使用してください:
 
 ``` bash
 $ npm install @line/bot-sdk --save
@@ -36,11 +36,11 @@ FAQ: https://developers.line.biz/en/faq/
 ## バージョニング
 このプロジェクトはセマンティックバージョニングを尊重します
 
-詳細は http://semver.org/ を参照してください
+詳細はこちらをご覧ください http://semver.org/
 
 ## 貢献
 
-貢献する前に [CONTRIBUTING](CONTRIBUTING.md) をご確認ください。
+貢献を行う前に[CONTRIBUTING](CONTRIBUTING.md)をご確認ください。
 
 ## ライセンス
 ```
@@ -52,8 +52,7 @@ Apache License, Version 2.0 (the "License")に基づいてライセンスされ�
  
    http://www.apache.org/licenses/LICENSE-2.0
  
-適用法または書面での合意により別途明示的に規定されない限り、
-ライセンスに基づいて配布されるソフトウェアは、明示的または黙示的な保証または条件を伴わず、
-「現状のまま」で提供されます。
-ライセンスで規定される許可と制限を管理する特定の言語については、ライセンスを参照してください。
+適用法または書面での合意により必要とされない限り、ソフトウェアは
+"AS IS"の基準で、明示または黙示を問わず、いかなる保証も条件もなく、
+配布されます。許可および制限に関してはライセンスで規定されています。
 ```
