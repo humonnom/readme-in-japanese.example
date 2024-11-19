@@ -5,24 +5,24 @@
 
 
 ## はじめに
-LINE Messaging API SDK for nodejsを使用すると、LINE Messaging APIを利用したボットの開発が容易になり、数分でサンプルボットを作成できます。
+LINE Messaging API SDK for nodejs を使用すると、LINE Messaging API を使用したボットの開発が容易になり、数分でサンプルボットを作成できます。
 
 ## ドキュメンテーション
 
-詳細は公式APIドキュメンテーションをご覧ください。
+詳細な情報については公式 API ドキュメンテーションを参照してください。
 
 - 英語: https://developers.line.biz/en/docs/messaging-api/overview/
 - 日本語: https://developers.line.biz/ja/docs/messaging-api/overview/
 
-line-bot-sdk-nodejsのドキュメンテーション: https://line.github.io/line-bot-sdk-nodejs/#getting-started
+line-bot-sdk-nodejs ドキュメンテーション: https://line.github.io/line-bot-sdk-nodejs/#getting-started
 
-## 必要条件
+## 必要な環境
 
-* **Node.js** 18以上
+* **Node.js** 18 以上
 
 ## インストール
 
-[npm](https://www.npmjs.com/)を使用してください:
+[npm](https://www.npmjs.com/) を使用してインストールします:
 
 ``` bash
 $ npm install @line/bot-sdk --save
@@ -34,25 +34,27 @@ FAQ: https://developers.line.biz/en/faq/
 ニュース: https://developers.line.biz/en/news/
 
 ## バージョニング
-このプロジェクトはセマンティックバージョニングを尊重します
+このプロジェクトはセマンティックバージョニングを尊重しています。
 
-詳細はこちらをご覧ください http://semver.org/
+詳細は http://semver.org/ を参照してください。
 
-## 貢献
+## コントリビューション
 
-貢献を行う前に[CONTRIBUTING](CONTRIBUTING.md)をご確認ください。
+コントリビューションを行う前に、[CONTRIBUTING](CONTRIBUTING.md) をご確認ください。
 
 ## ライセンス
 ```
 Copyright (C) 2016 LINE Corp.
  
-Apache License, Version 2.0 (the "License")に基づいてライセンスされています。
-このファイルを使用するにはライセンスに従う必要があります。
-ライセンスのコピーは以下から入手できます。
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
  
    http://www.apache.org/licenses/LICENSE-2.0
  
-適用法または書面での合意により必要とされない限り、ソフトウェアは
-"AS IS"の基準で、明示または黙示を問わず、いかなる保証も条件もなく、
-配布されます。許可および制限に関してはライセンスで規定されています。
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```
