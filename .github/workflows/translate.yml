@@ -15,6 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Translate README
-        uses: humonnom/readme-in-japanese@main
+        uses: humonnom/readme-in-japanese@dev
         with:
           api_key: ${{ secrets.OPENAI_API_KEY }}
