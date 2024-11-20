@@ -19,3 +19,5 @@ line-bot-sdk-nodejs documentation: https://line.github.io/line-bot-sdk-nodejs/#g
 ## Requirements
 
 * **Node.js** 18 or higher
+
+
