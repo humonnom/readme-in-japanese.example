@@ -5,17 +5,17 @@
 
 
 ## はじめに
-LINE Messaging API SDK for nodejsを使用すると、LINE Messaging APIを使用したボットの開発が容易になり、数分でサンプルボットを作成できます。
+LINE Messaging API SDK for nodejs を使用すると、LINE Messaging API を使用したボットの開発が容易になり、数分でサンプルボットを作成することができます。
 
 ## ドキュメンテーション
 
-詳細な情報については、公式APIドキュメンテーションをご覧ください。
+詳細な情報については、公式 API ドキュメンテーションをご覧ください。
 
 - 英語: https://developers.line.biz/en/docs/messaging-api/overview/
 - 日本語: https://developers.line.biz/ja/docs/messaging-api/overview/
 
-line-bot-sdk-nodejsのドキュメンテーション: https://line.github.io/line-bot-sdk-nodejs/#getting-started
+line-bot-sdk-nodejs のドキュメンテーション: https://line.github.io/line-bot-sdk-nodejs/#getting-started
 
 ## 必要なもの
 
-* **Node.js** 18以上
+* **Node.js** 18 以上
